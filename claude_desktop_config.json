@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "oletools-secure-mcp": {
+      "command": "python",
+      "args": [
+        "mcp_service.py"
+      ],
+      "host": "0.0.0.0",
+      "port": 50052
+    }
+  }
+}

@@ -1,0 +1,4 @@
+oletools==0.62.2
+XLMMacroDeobfuscator==0.4.3
+python-magic-bin==0.4.18
+iocextract==1.2.0
